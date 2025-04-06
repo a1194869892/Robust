@@ -41,11 +41,3 @@ python main.py --db time_course
 Please cite our paper if you use this code in your own work:...
 
 
-
-
-
-
-## Cite
-
-Please cite our paper if you use this code in your own work:...
-
